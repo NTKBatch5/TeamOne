@@ -15,7 +15,11 @@ public class TeamOne {
 
 		System.out.println("we got conflicts yesterday, where are they for today?");
 		System.out.println(" mine gets delete?");
-
+       
+	}
+	public static void addNUm(int a, int b) {
+		
+		System.out.println(a+b);
 	}
    
 
