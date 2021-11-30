@@ -11,8 +11,6 @@ public class TeamOne {
 
 		System.out.println("Create the conflict please");
 
-		System.out.println("any conflict yet?");
-
 		System.out.println("we got conflicts yesterday, where are they for today?");
 		System.out.println(" mine gets delete?");
        
