@@ -10,7 +10,7 @@ public class TeamOne {
 		System.out.println("more conflict please");
 
 		System.out.println("Create the conflict please");
-
+              
 		System.out.println("we got conflicts yesterday, where are they for today?");
 		System.out.println(" mine gets delete?");
        
@@ -18,6 +18,7 @@ public class TeamOne {
 	public static void addNUm(int a, int b) {
 		
 		System.out.println(a+b);
+		System.out.println("sum is: " + a +b);
 	}
    
 
