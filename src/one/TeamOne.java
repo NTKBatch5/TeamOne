@@ -20,6 +20,7 @@ public class TeamOne {
 		
 		System.out.println("this is my 1st changed");
 		System.out.println("this is my 2nd changed");
+		System.out.println("3rd");
 	}
 
 	public static void addNUm(int a, int b) {
