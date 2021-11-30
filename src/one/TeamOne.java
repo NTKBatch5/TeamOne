@@ -34,6 +34,6 @@ public class TeamOne {
 		// this is a non-void method...
 		// this method need one more step
 		//each time I do practice, after my first attempt I get error at the pushing step.1
-		
+		// when I get the rror at pushing step, I close my eclipse, after opening I try and it works.2
 	}
 }
