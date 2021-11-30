@@ -17,8 +17,6 @@ public class TeamOne {
 		System.out.println(" mine gets delete?");
 
 	}
-    public static void addNum (int a, int b) {
-    	System.out.println(a+b);
-    	
-    }
+   
+
 }
