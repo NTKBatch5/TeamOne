@@ -15,8 +15,11 @@ public class TeamOne {
 		System.out.println(" mine gets delete?");
 		
 		System.out.println(" it is 11:30pm waheeda ");
-        System.out.println("this is yari's turn ");
-        
+
+
+		System.out.println(" this is yari's turn again ");
+
+
 		
 		System.out.println("this is my 1st changed");
 		System.out.println("this is my 2nd changed");
