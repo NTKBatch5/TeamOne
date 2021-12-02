@@ -16,8 +16,7 @@ public class TeamOne {
 		
 		System.out.println(" it is 11:30pm waheeda ");
 
-		System.out.println(" this is yari's turn again ");
-
+        
 		
 		System.out.println("this is my 1st changed");
 		System.out.println("this is my 2nd changed");
@@ -37,4 +36,9 @@ public class TeamOne {
 		//each time I do practice, after my first attempt I get error at the pushing step.1
 		// when I get the rror at pushing step, I close my eclipse, after opening I try and it works.2
 	}
+	
+	public static void name(String firstName) {
+		System.out.println(firstName);
+	}
 }
+
