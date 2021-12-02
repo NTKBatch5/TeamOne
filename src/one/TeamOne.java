@@ -45,5 +45,11 @@ public class TeamOne {
 	public static void name(String firstName) {
 		System.out.println(firstName);
 	}
+	
+	public static void subNUm(int a, int b) {
+
+		System.out.println(a - b);
+	}
+	
 }
 
